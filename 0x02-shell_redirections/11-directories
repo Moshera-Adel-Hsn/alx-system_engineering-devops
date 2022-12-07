@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -depth -type d -exec ls -aRl '{}' +
+find . -depth -type d  ls -aRl
