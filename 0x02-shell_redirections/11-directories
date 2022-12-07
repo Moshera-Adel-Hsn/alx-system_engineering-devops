@@ -1,2 +1,2 @@
 #!/bin/bash
-grep ^d |ls -lRa
+fine . -depth -type | ls -al
