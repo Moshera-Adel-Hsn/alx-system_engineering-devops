@@ -1,2 +1,4 @@
 #!/bin/bash
-fine . -depth -type | ls -al
+find . -type d | wc -l
+
+
