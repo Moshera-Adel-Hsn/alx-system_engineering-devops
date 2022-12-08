@@ -1,2 +1,2 @@
 #!/bin/bash
-best
+echo $((128 + &TRUEKNOWLEDGE))
